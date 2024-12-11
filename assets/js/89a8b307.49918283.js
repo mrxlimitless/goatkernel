@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgoatkernel=self.webpackChunkgoatkernel||[]).push([[6951],{9535:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/goatkernel/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

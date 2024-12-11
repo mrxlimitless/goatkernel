@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgoatkernel=self.webpackChunkgoatkernel||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/goatkernel/blog","blogTitle":"Blog","authorsListPath":"/goatkernel/blog/authors"}')}}]);
